@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raphaelbarretopro.github.io/mk3/sitemap.xml
